@@ -1,0 +1,5 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+	All the hidden files with the history metada are created. This is needed because git needs the history of the repository to work out
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+	Is different in the way it works with GIT, and it is a step to make a commit.
+	

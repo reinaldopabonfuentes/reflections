@@ -1,5 +1,16 @@
 1. What happens when you initialize a repository? Why do you need to do it?
 	All the hidden files with the history metada are created. This is needed because git needs the history of the repository to work out
+
 2. How is the staging area different from the working directory and the repository? What value do you think it offers?
 	Is different in the way it works with GIT, and it is a step to make a commit.
-	
+
+3. How can you use the staging area to make sure you have one commit per logical change?
+	I can check the files which have been added so I can see if for everye change I added, there is a logical change
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	I can create as much branches as different things I want to do with my project, branches will take a copy of all the code I have written and I will start with a vere different thing.
+
+5. How do the diagrams help you visualize the branch structure?
+	I can see the parents of every commit and I can aovid to make mistakes of creating new commits unreachables
+
+
